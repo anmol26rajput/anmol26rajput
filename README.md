@@ -14,7 +14,7 @@
 
 Software Developer working with Python, Django and ML. Most of what I build sits somewhere between *"let me automate this"* and *"let me see if a model can predict this."*
 
-- 📍 Based in Delhi
+- 📍 Based in Dubai/Delhi
 - 💼 Currently at **@corus-space**
 - 🧠 Exploring AI, NLP and real-world applications of ML
 - ✍️ Write occasionally on [Medium](https://medium.com/@anmol26rajput) — tutorials, project breakdowns, and dev-life reflections
