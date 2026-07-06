@@ -51,6 +51,14 @@ Software Developer working with Python, Django and ML. Most of what I build sits
 - [**CBTCIP**](https://github.com/anmol26rajput/CBTCIP) — Internship projects for Cipherbyte — includes a Mastermind game and Rock-Paper-Scissors in Python.
 
 ---
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=anmol26rajput&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/anmol26rajput"
+  width="600"
+  height="300"
+/>
+</a>
+---
 
 ### ✍️ Recent writing
 
