@@ -64,12 +64,7 @@ Software Developer working with Python, Django and ML. Most of what I build sits
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol26rajput&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol26rajput&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anmol26rajput&theme=radical&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/anmol26rajput/anmol26rajput/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
