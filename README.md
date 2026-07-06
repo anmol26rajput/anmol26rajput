@@ -56,7 +56,7 @@ Software Developer working with Python, Django and ML. Most of what I build sits
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=anmol26rajput&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/anmol26rajput"
-  width="900"
+  width="1100"
   height="300"
 />
 </a>
