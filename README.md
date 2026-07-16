@@ -2,6 +2,7 @@
 <h3 align="center">Software Developer — Python, Django & Machine Learning</h3>
 
 <p align="center">
+  <a href="https://anmolrajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anmol-rajput-b31061229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@anmol26rajput"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://twitter.com/Anmolrajput2623"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
