@@ -4,11 +4,11 @@
   <line x1="350" y1="260" x2="510.0" y2="260.0" stroke="#39d35355" stroke-width="1.5"/>
   <line x1="350" y1="260" x2="350.0" y2="420.0" stroke="#39d35355" stroke-width="1.5"/>
   <line x1="350" y1="260" x2="190.0" y2="260.0" stroke="#39d35355" stroke-width="1.5"/>
-  <polygon points="350.0,260.0 350.0,260.0 350.0,275.5 205.5,260.0" fill="#39d35322" stroke="#39d353" stroke-width="2.5"/>
+  <polygon points="350.0,260.0 350.0,260.0 350.0,275.4 205.4,260.0" fill="#39d35322" stroke="#39d353" stroke-width="2.5"/>
   <circle cx="350.0" cy="260.0" r="5.5" fill="#0d1117" stroke="#39d353" stroke-width="2.5"/>
   <circle cx="350.0" cy="260.0" r="5.5" fill="#0d1117" stroke="#39d353" stroke-width="2.5"/>
-  <circle cx="350.0" cy="275.5" r="5.5" fill="#0d1117" stroke="#39d353" stroke-width="2.5"/>
-  <circle cx="205.5" cy="260.0" r="5.5" fill="#0d1117" stroke="#39d353" stroke-width="2.5"/>
+  <circle cx="350.0" cy="275.4" r="5.5" fill="#0d1117" stroke="#39d353" stroke-width="2.5"/>
+  <circle cx="205.4" cy="260.0" r="5.5" fill="#0d1117" stroke="#39d353" stroke-width="2.5"/>
   <text x="350.0" y="76.0" fill="#39d353" font-size="16" text-anchor="middle" font-family="ui-monospace,monospace" font-weight="600">0%</text>
   <text x="350.0" y="92.0" fill="#8b949e" font-size="13" text-anchor="middle" font-family="ui-monospace,monospace">Code review</text>
   <text x="526.0" y="255.0" fill="#39d353" font-size="16" text-anchor="start" font-family="ui-monospace,monospace" font-weight="600">0%</text>
