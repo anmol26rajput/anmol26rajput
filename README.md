@@ -34,7 +34,7 @@ Software Developer working with Python, Django and ML. Most of what I build sits
 ### 🚀 Projects
 
 **Web apps**
-- [**csv-editor**](https://github.com/anmol26rajput/csv-editor) — Privacy-focused tool to upload, edit, and clean CSV/PDF/DOCX/PPTX files. Django backend + Pandas for processing, vanilla JS frontend, includes bulk row splitting and AI-assisted data clean-up.
+- [**Sarva**](https://github.com/anmol26rajput/Sarva) — Privacy-focused tool to upload, edit, and clean CSV/PDF/DOCX/PPTX files. Django backend + Pandas for processing, vanilla JS frontend, includes bulk row splitting and AI-assisted data clean-up.
 - [**Mindful**](https://github.com/anmol26rajput/Mindful) — Habit and goal tracker with a daily journal, streak tracking, and a personal dashboard. Built on Django with SQLite/PostgreSQL.
 - [**G20NewsHub**](https://github.com/anmol26rajput/G20NewsHub) — React news aggregator for G20-related coverage, with a companion Chrome extension that surfaces top headlines in a popup. Pulls from the Algolia API.
 - [**Simple-Poll-App**](https://github.com/anmol26rajput/Simple-Poll-App) — Django-based polling app (classic polls tutorial structure, extended).
