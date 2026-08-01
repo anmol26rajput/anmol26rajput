@@ -25,13 +25,47 @@ Software Developer working with Python, Django and ML. Most of what I build sits
 
 ### 🛠️ Tech I work with
 
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,ts,java,html,css,git,github,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,php,html,css,bash" />
+</p>
+
+**Frameworks & frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nextjs,react,tailwind" />
+</p>
+
+**Machine learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda" />
+</p>
+
+**Infra, data & messaging**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,kafka,rabbitmq,postgres,mysql,sqlite,redis" />
+</p>
+
+**Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/MQL5%20(MT5%20EA)-1B1B1B?style=for-the-badge&logoColor=white" alt="MQL5" />
+  <img src="https://img.shields.io/badge/Shopify%20Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Liquid" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" />
 </p>
 
 ---
 
 ### 🚀 Projects
+
+**Next.js / frontend**
+- [**Portfolio**](https://anmolrajput.vercel.app) — My personal site. Next.js 16 App Router + Tailwind v4, with GSAP for the hero letter-stagger, custom cursor and magnetic buttons, Motion for scroll reveals, Lenis for smooth scroll, and a Remotion-rendered hero background video.
+- [**CommHawk**](https://commhawk.vercel.app) — Marketing site for a technology/AI studio. Next.js + TypeScript, animated section reveals, custom cursor, light/dark theme toggle, generated OG images and sitemap. [Source](https://github.com/anmol26rajput/commhawk)
+- [**Beyond Horizon**](https://beyond-horizon-delta.vercel.app) — Single-page scroll-driven site for a foreign-language school. Next.js 15 static export, Tailwind v4, GSAP + ScrollTrigger, Lenis. No database — every enquiry is a prefilled WhatsApp deep link.
 
 **Web apps**
 - [**Sarva**](https://github.com/anmol26rajput/Sarva) — Privacy-focused tool to upload, edit, and clean CSV/PDF/DOCX/PPTX files. Django backend + Pandas for processing, vanilla JS frontend, includes bulk row splitting and AI-assisted data clean-up.
