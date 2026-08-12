@@ -63,12 +63,12 @@ Software Developer working with Python, Django and ML. Most of what I build sits
 ### 🚀 Projects
 
 **Next.js / frontend**
-- [**Portfolio**](https://anmolrajput.vercel.app) — My personal site. Next.js 16 App Router + Tailwind v4, with GSAP for the hero letter-stagger, custom cursor and magnetic buttons, Motion for scroll reveals, Lenis for smooth scroll, and a Remotion-rendered hero background video.
+- [**Portfolio**](https://www.anmolrajput.com/) — My personal site. Next.js 16 App Router + Tailwind v4, with GSAP for the hero letter-stagger, custom cursor and magnetic buttons, Motion for scroll reveals, Lenis for smooth scroll, and a Remotion-rendered hero background video.
 - [**CommHawk**](https://commhawk.vercel.app) — Marketing site for a technology/AI studio. Next.js + TypeScript, animated section reveals, custom cursor, light/dark theme toggle, generated OG images and sitemap. [Source](https://github.com/anmol26rajput/commhawk)
-- [**Beyond Horizon**](https://beyond-horizon-delta.vercel.app) — Single-page scroll-driven site for a foreign-language school. Next.js 15 static export, Tailwind v4, GSAP + ScrollTrigger, Lenis. No database — every enquiry is a prefilled WhatsApp deep link.
+- [**Beyond Horizon**](https://www.learnbeyondhorizon.com/) — Single-page scroll-driven site for a foreign-language school. Next.js 15 static export, Tailwind v4, GSAP + ScrollTrigger, Lenis. No database — every enquiry is a prefilled WhatsApp deep link.
 
 **Web apps**
-- [**Sarva**](https://github.com/anmol26rajput/Sarva) — Privacy-focused tool to upload, edit, and clean CSV/PDF/DOCX/PPTX files. Django backend + Pandas for processing, vanilla JS frontend, includes bulk row splitting and AI-assisted data clean-up.
+- [**Sarva**](https://www.sarva-editor.com/) — Privacy-focused tool to upload, edit, and clean CSV/PDF/DOCX/PPTX files. Django backend + Pandas for processing, vanilla JS frontend, includes bulk row splitting and AI-assisted data clean-up.
 - [**Mindful**](https://github.com/anmol26rajput/Mindful) — Habit and goal tracker with a daily journal, streak tracking, and a personal dashboard. Built on Django with SQLite/PostgreSQL.
 - [**G20NewsHub**](https://github.com/anmol26rajput/G20NewsHub) — React news aggregator for G20-related coverage, with a companion Chrome extension that surfaces top headlines in a popup. Pulls from the Algolia API.
 - [**Simple-Poll-App**](https://github.com/anmol26rajput/Simple-Poll-App) — Django-based polling app (classic polls tutorial structure, extended).
